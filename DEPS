@@ -2,8 +2,8 @@ vars = {
   # Use this googlecode_url variable only if there is an internal mirror for it.
   # If you do not know, use the full path while defining your new deps entry.
   "googlecode_url": "http://%s.googlecode.com/svn",
-  "chromium_trunk" : "http://src.chromium.org/svn/trunk",
-  "chromium_git_url" : "http://git.chromium.org",
+  "chromium_trunk" : "https://src.chromium.org/viewvc/chrome/trunk",
+  "chromium_git_url" : "https://chromium.googlesource.com/",
   "github_luke_url" : "https://www.github.com/lukeweber",
   "chromium_revision": "182149",
 
