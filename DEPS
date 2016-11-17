@@ -29,8 +29,7 @@ deps = {
     Var("chromium_trunk") + "/src/third_party/expat@" + Var("chromium_revision"),
 
   "trunk/third_party/google-gflags/src":
-    "https://github.com/gflags/gflags.git"
-    #(Var("googlecode_url") % "google-gflags") + "/trunk/src@45",
+    "https://github.com/gflags/gflags.git",
 
   "trunk/third_party/libjpeg":
     Var("chromium_trunk") + "/src/third_party/libjpeg@" + Var("chromium_revision"),
